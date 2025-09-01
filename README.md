@@ -4,7 +4,7 @@
 <img align="right" width="400" alt="coding" src=https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykirannaga&label=Profile%20views&color=0e75b6&style=flat" alt="udaykirannaga" /> </p>
 
-<p align="left"> <a href="https://x.com/11Kittu95607?t=UboFLnw9OJ8dT5B8NEKQ1w&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@nagaudaykiran?logo=twitter&style=for-the-badge" alt="@nagaudaykiran" /></a> </p>
+<p align="left"> <a href="https://x.com/11Kittu95607?t=UboFLnw9OJ8dT5B8NEKQ1w&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@krishna2045?logo=twitter&style=for-the-badge" alt="@krishna2045" /></a> </p>
 
 - 🔭 I’m currently working on **EDULOG SMART FACULTY DOCUMENTATION HUB PROJECT**
 
