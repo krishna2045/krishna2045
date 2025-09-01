@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna2045&label=Profile%20views&color=0e75b6&style=flat" alt="krishna2045" /> </p>
 
-<p align="left"> <a href="https://x.com/11Kittu95607?t=UboFLnw9OJ8dT5B8NEKQ1w&s=09"><img src="https://img.shields.io/twitter/follow/@nagaudaykiran?logo=twitter&style=for-the-badge" alt="@G Krishna" /></a> </p>
+<p align="left"> <a href="https://x.com/11Kittu95607?t=UboFLnw9OJ8dT5B8NEKQ1w&s=09"><img src="https://img.shields.io/twitter/follow/@G KRISHNA?logo=twitter&style=for-the-badge" alt="@G Krishna" /></a> </p>
 
 - 🔭 I’m currently working on **EDULOG SMART FACULTY DOCUMENTATION HUB**
 
