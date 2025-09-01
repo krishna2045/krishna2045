@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna2045&show_icons=true&locale=en&layout=compact" alt="krishna2045" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna&show_icons=true&locale=en" alt="krishna" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna2045&show_icons=true&locale=en" alt="krishna2045" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna&" alt="krishna" /></p>
 <p align="left">Hello World!!</p>
