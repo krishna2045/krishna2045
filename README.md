@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)]
-<h1 align="center">Hi 👋, I'm Uday kiran</h1>
+<h1 align="center">Hi 👋, I'm G KRISHNA </h1>
 <h3 align="center">A passionate Full Stack developer from Hyderabad</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML,CSS, JavaScript, React, Bootstrap.**
 
-- 📫 How to reach me **nagauday7788@gmail.com**
+- 📫 How to reach me **smlkittu@gmail.com**
 
 - ⚡ Fun fact **i am funny**
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="Kittu 11 (@11Kittu95607) / X https://share.google/8YJ3iixPKL8aETVGo"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nagaudaykiran" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nagaudaykiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaudaykiran" height="30" width="40" /></a>
-<a href="https://instagram.com/definitely._.not" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="definitely._.not" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kanna___19___?igsh=b2s4cm96bXRjOXlu&utm_source=ig_contact_invite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="definitely._.not" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
