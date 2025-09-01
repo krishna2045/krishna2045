@@ -1,8 +1,8 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hi 👋, I'm G krishna</h1>
-<h3 align="center">IAM FULLSTACK DEVELOPER|PYTHON DEVELOPER</h3>
+<h3 align="center">A passionate Full Stack developer from Hyderabad</h3>
 <img align="right" width="400" alt="coding" src=https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=G krishna&label=Profile%20views&color=0e75b6&style=flat" alt="G krishna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykirannaga&label=Profile%20views&color=0e75b6&style=flat" alt="udaykirannaga" /> </p>
 
 <p align="left"> <a href="https://x.com/11Kittu95607?t=UboFLnw9OJ8dT5B8NEKQ1w&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@nagaudaykiran?logo=twitter&style=for-the-badge" alt="@nagaudaykiran" /></a> </p>
 
