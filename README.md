@@ -1,11 +1,11 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)]
 <h1 align="center">Hi 👋, I'm G KRISHNA </h1>
 <h3 align="center">A passionate Full Stack developer from Hyderabad</h3>
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykirannaga&label=Profile%20views&color=0e75b6&style=flat" alt="G krishna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna2045&label=Profile%20views&color=0e75b6&style=flat" alt="krishna2045" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@nagaudaykiran" target="blank"><img src="https://img.shields.io/twitter/follow/@nagaudaykiran?logo=twitter&style=for-the-badge" alt="@G Krishna" /></a> </p>
+<p align="left"> <a href="https://x.com/11Kittu95607?t=UboFLnw9OJ8dT5B8NEKQ1w&s=09"><img src="https://img.shields.io/twitter/follow/@nagaudaykiran?logo=twitter&style=for-the-badge" alt="@G Krishna" /></a> </p>
 
 - 🔭 I’m currently working on **EDULOG SMART FACULTY DOCUMENTATION HUB**
 
