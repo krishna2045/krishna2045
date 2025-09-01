@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykirannaga&label=Profile%20views&color=0e75b6&style=flat" alt="udaykirannaga" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@nagaudaykiran" target="blank"><img src="https://img.shields.io/twitter/follow/@nagaudaykiran?logo=twitter&style=for-the-badge" alt="@nagaudaykiran" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@nagaudaykiran" target="blank"><img src="https://img.shields.io/twitter/follow/@nagaudaykiran?logo=twitter&style=for-the-badge" alt="@G Krishna" /></a> </p>
 
-- 🔭 I’m currently working on **Cookies project**
+- 🔭 I’m currently working on **EDULOG SMART FACULTY DOCUMENTATION HUB**
 
 - 🌱 I’m currently learning **Bootstrap, React,**
 
@@ -15,12 +15,12 @@
 
 - 📫 How to reach me **smlkittu@gmail.com**
 
-- ⚡ Fun fact **i am funny**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="Kittu 11 (@11Kittu95607) / X https://share.google/8YJ3iixPKL8aETVGo"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nagaudaykiran" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nagaudaykiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaudaykiran" height="30" width="40" /></a>
+<a href="https://x.com/11Kittu95607?t=UboFLnw9OJ8dT5B8NEKQ1w&s=09"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nagaudaykiran" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krishna1911?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaudaykiran" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kanna___19___?igsh=b2s4cm96bXRjOXlu&utm_source=ig_contact_invite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="definitely._.not" height="30" width="40" /></a>
 </p>
 
