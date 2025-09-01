@@ -1,27 +1,27 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)]
-<h1 align="center">Hi 👋, I'm Uday kiran</h1>
+<h1 align="center">Hi 👋, I'm G Krishna </h1>
 <h3 align="center">A passionate Full Stack developer from Hyderabad</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykirannaga&label=Profile%20views&color=0e75b6&style=flat" alt="udaykirannaga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykirannaga&label=Profile%20views&color=0e75b6&style=flat" alt="G Krishna" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@nagaudaykiran" target="blank"><img src="https://img.shields.io/twitter/follow/@nagaudaykiran?logo=twitter&style=for-the-badge" alt="@nagaudaykiran" /></a> </p>
 
-- 🔭 I’m currently working on **Cookies project**
+- 🔭 I’m currently working on **Edulog Smart Faculty DOCUMENTATION HUB**
 
 - 🌱 I’m currently learning **Bootstrap, React,**
 
 - 💬 Ask me about **HTML,CSS, JavaScript, React, Bootstrap.**
 
-- 📫 How to reach me **nagauday7788@gmail.com**
+- 📫 How to reach me **smlkittu@gmail.com**
 
 - ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@nagaudaykiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nagaudaykiran" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nagaudaykiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaudaykiran" height="30" width="40" /></a>
-<a href="https://instagram.com/definitely._.not" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="definitely._.not" height="30" width="40" /></a>
+<a href="https:"Kittu 11 (@11Kittu95607) / X https://share.google/8YJ3iixPKL8aETVGo"  height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krishna1911?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kanna___19___?igsh=MnUyeWl5aDBmMGJr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
